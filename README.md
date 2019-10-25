@@ -1,2 +1,6 @@
 # JavaDemo
 此仓库是为了实现一些小的装逼Demo
+01添加包rain特效雨
+02添加包dateFormatTest日期与字符串转换
+03添加包enumTest测试枚举类ResultEnum
+
